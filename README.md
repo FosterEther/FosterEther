@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FosterEther
+- 👋 Hi, I’m FosterEther
 - 📫 How to reach me: LinkedIn - Marc Orr, Twitter - @FosterEther, Instagram - fosterether.eth, Facebook - foster.ether
 
 <!---
